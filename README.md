@@ -33,7 +33,7 @@
 </div>
 <br>
   
-<div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=blue" alt="douglasobomfim" /></div>
+<div><img src="https://komarev.com/ghpvc/?username=douglasobomfim&color=blue" alt="douglasobomfim" /></div>
   
 <br>
   
