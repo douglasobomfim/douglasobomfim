@@ -5,7 +5,7 @@
 <p>Meu objetivo principal é evoluir através das oportunidades que recebo e crescer no mercado de trabalho na área de Tecnologia da Informação.</p>
 
 <h4>CONTATO:</h4>
-<p><strong>Telefone:</strong> +55 11 9 4913-33597</p>
+<p><strong>Telefone:</strong> +55 73 9 8814-7439 ou +55 11 9 4913-33597 </p>
 <p><strong>E-mail:</strong> douglasobomfim@outlook.com</p>
 <br>
 </div>
